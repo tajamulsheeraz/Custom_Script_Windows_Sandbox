@@ -4,7 +4,7 @@
 
 <MappedFolders>
 	<MappedFolder>
-		<HostFolder>C:\Users\Tajamul\Downloads\SandBox</HostFolder>
+		<HostFolder>C:\Users\Tajamul\Downloads</HostFolder>
 		<SandboxFolder>C:\Users\WDAGUtilityAccount\Downloads</SandboxFolder>
 		<ReadOnly>True</ReadOnly>
 	</MappedFolder>
