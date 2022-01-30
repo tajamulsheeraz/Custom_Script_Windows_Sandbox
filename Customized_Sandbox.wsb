@@ -11,7 +11,7 @@
 </MappedFolders>
 
 <LogonCommand>
-	<Command>C:\Users\WDAGUtilityAccount\Downloads\install.cmd</Command>
+	<Command>C:\Users\WDAGUtilityAccount\Downloads\Install_Softwares_Win_Sandbox.cmd</Command>
 </LogonCommand>
 
 <MemoryInMB>3000</MemoryInMB>
