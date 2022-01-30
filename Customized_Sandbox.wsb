@@ -1,0 +1,19 @@
+<Configuration>
+
+<Networking>Default</Networking>
+
+<MappedFolders>
+	<MappedFolder>
+		<HostFolder>C:\Users\Tajamul\Downloads\SandBox</HostFolder>
+		<SandboxFolder>C:\Users\WDAGUtilityAccount\Downloads</SandboxFolder>
+		<ReadOnly>True</ReadOnly>
+	</MappedFolder>
+</MappedFolders>
+
+<LogonCommand>
+	<Command>C:\Users\WDAGUtilityAccount\Downloads\install.cmd</Command>
+</LogonCommand>
+
+<MemoryInMB>3000</MemoryInMB>
+
+</Configuration>
