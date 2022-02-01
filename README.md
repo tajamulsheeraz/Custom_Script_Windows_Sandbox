@@ -3,7 +3,7 @@ This project is a script created for spinning up a ready to go customized window
 
 Please make sure that you have enabled the Windows Sandbox feature on your machine. 
 
-Download both the files(Customized_Sandbox.wsb and Install_Softwares_Win_Sandbox.cmd) in the Downloads folder and execute the "Customized_Sandbox.wsb" file to initiate the sandbox.
+Download both the ZIP folder and extract them. Then move the Customized_Sandbox.wsb and Install_Softwares_Win_Sandbox.cmd files to the Downloads folder and execute the "Customized_Sandbox.wsb" file to initiate the sandbox.
 
 You can control vGPU(virtualized GPU), Networking, Startup Script and Shared Folders with ".wsb" script.
 
