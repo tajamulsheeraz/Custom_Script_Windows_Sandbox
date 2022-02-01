@@ -7,8 +7,8 @@ Download both the files(Customized_Sandbox.wsb and Install_Softwares_Win_Sandbox
 
 You can control vGPU(virtualized GPU), Networking, Startup Script and Shared Folders with ".wsb" script.
 
-Kindly change the below path location to your machine's download folder path.
+Kindly change the below path location to your machine's download folder path in the "Customized_Sandbox.wsb" file.
 
-<HostFolder>C:\Users\*Tajamul*\Downloads</HostFolder>
+<HostFolder>C:\Users\Tajamul\Downloads</HostFolder>
 
 For more details please refer the documentation "https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-configure-using-wsb-file".
